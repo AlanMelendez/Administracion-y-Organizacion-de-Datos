@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    background-color: #000;
+    color: white;
+    margin-top: 3px;
+    border-radius: 8px;
+}
+#Agendabtn{
+    color: white;
+}
+#encabe{
+    padding: 5;
+}
+
