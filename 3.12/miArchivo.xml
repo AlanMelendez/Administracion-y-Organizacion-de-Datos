@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>TITANIC</titulo>
+    <año>2000</año>
+    <genero>Drama</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+</peliculas>
